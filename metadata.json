@@ -1,0 +1,8 @@
+{
+  "name": "DS Data Management",
+  "description": "A production-grade, local-first personal information manager. Organize your digital life into an immutable event log with AI-powered classification and discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
